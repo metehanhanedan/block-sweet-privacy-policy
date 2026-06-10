@@ -5,7 +5,7 @@ This repository contains the official Privacy Policy for the mobile game **Block
 ## 📄 Privacy Policy
 
 You can view the privacy policy here:
-👉 [https://metehanhanedan.github.io/block-sweet-privacy-policy/](https://github.com/metehanhanedan/block-sweet-privacy-policy/blob/main/index.html)
+👉 [[https://metehanhanedan.github.io/block-sweet-privacy-policy/](https://github.com/metehanhanedan/block-sweet-privacy-policy/blob/main/index.html)](https://metehanhanedan.github.io/block-sweet-privacy-policy/)
 
 ## 🛡️ About the Game
 
